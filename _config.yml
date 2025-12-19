@@ -1,5 +1,3 @@
+theme: jekyll-theme-minimal
 title: Sachin
-description: Writings, Projects, Books 
-theme: minima 
-plugins:
-  - jekyll-seo-tag
+description: Projects > Essays > Books
